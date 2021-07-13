@@ -4,6 +4,7 @@
     <new-arrival />
     <our-bestsellers />
     <reviews />
+    <instagram-feed />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import TheHero from './components/TheHero.vue'
 import NewArrival from './components/NewArrival.vue'
 import OurBestsellers from './components/OurBestsellers.vue'
 import Reviews from './components/Reviews.vue'
+import InstagramFeed from './components/InstagramFeed.vue'
 
 </script>
 

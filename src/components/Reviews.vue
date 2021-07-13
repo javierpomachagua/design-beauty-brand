@@ -1,5 +1,5 @@
 <template>
-  <div class="relative py-16 text-center bg-app-secondary">
+  <div class="relative py-16 mb-40 text-center bg-app-secondary">
     <background-reviews class="absolute inset-0" />
     <img
       src="./../assets/review1.png"
