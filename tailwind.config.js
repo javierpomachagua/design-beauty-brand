@@ -11,6 +11,7 @@ module.exports = {
       colors: {
         app: {
           primary: '#001F40',
+          primaryLight: '#283144',
           secondary: '#FB8D9E',
           contrastPink: '#FEE8EC'
         }

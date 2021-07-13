@@ -5,6 +5,7 @@
     <our-bestsellers />
     <reviews />
     <instagram-feed />
+    <the-footer />
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import NewArrival from './components/NewArrival.vue'
 import OurBestsellers from './components/OurBestsellers.vue'
 import Reviews from './components/Reviews.vue'
 import InstagramFeed from './components/InstagramFeed.vue'
+import TheFooter from './components/TheFooter.vue'
 
 </script>
 
