@@ -3,6 +3,7 @@
     <the-hero />
     <new-arrival />
     <our-bestsellers />
+    <reviews />
   </div>
 </template>
 
@@ -10,6 +11,7 @@
 import TheHero from './components/TheHero.vue'
 import NewArrival from './components/NewArrival.vue'
 import OurBestsellers from './components/OurBestsellers.vue'
+import Reviews from './components/Reviews.vue'
 
 </script>
 

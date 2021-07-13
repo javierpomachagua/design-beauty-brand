@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center">
+  <div class="mb-40 text-center">
     <p class="text-sm font-light">Popular Product</p>
     <h2 class="inline-flex items-center text-4xl">
       <flower-inverted class="w-8 h-8 mr-2" />

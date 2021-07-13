@@ -11,6 +11,6 @@
     @apply font-playfair;
   }
   p {
-    @apply text-sm leading-6
+    @apply text-sm leading-8
   }
 }
