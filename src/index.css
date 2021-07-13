@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-app-primary;
+  }
+  h1,
+  h2 {
+    @apply font-playfair;
+  }
+}
