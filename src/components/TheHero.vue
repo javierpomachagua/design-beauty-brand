@@ -1,29 +1,31 @@
 <template>
-  <div class="mb-28">
+  <div class="mb-40">
     <header
-      class="relative z-20 inline-flex items-center justify-between w-full"
+      class="relative z-20 inline-flex items-center justify-between w-full mb-16"
     >
       <logo class="w-16 h-16" />
-      <ul class="inline-flex space-x-12">
-        <li><a class="text-gray-600 hover:text-gray-700" href="#">Home</a></li>
-        <li><a class="text-gray-600 hover:text-gray-700" href="#">About</a></li>
-        <li><a class="text-gray-600 hover:text-gray-700" href="#">Shop</a></li>
-        <li><a class="text-gray-600 hover:text-gray-700" href="#">Blog</a></li>
-        <li>
-          <a class="text-gray-600 hover:text-gray-700" href="#">Contact</a>
-        </li>
-      </ul>
-      <div class="flex items-center justify-center mr-4 space-x-6">
-        <search class="w-6 h-6" />
-        <cart class="w-10 h-10" />
-        <img
-          src="./../assets/profile.jpg"
-          class="object-cover w-12 h-12 rounded-full"
-          alt="profile image"
-        />
+      <div class="inline-flex items-center">
+        <ul class="inline-flex mr-10 space-x-12">
+          <li><a class="pb-[.4rem] text-sm font-medium text-gray-600 no-underline hover:border-b-2 hover:border-solid hover:border-app-secondary hover:text-gray-700" href="#">Home</a></li>
+          <li><a class="pb-[.4rem] text-sm font-medium text-gray-600 no-underline hover:border-b-2 hover:border-solid hover:border-app-secondary hover:text-gray-700" href="#">About</a></li>
+          <li><a class="pb-[.4rem] text-sm font-medium text-gray-600 no-underline hover:border-b-2 hover:border-solid hover:border-app-secondary hover:text-gray-700" href="#">Shop</a></li>
+          <li><a class="pb-[.4rem] text-sm font-medium text-gray-600 no-underline hover:border-b-2 hover:border-solid hover:border-app-secondary hover:text-gray-700" href="#">Blog</a></li>
+          <li>
+            <a class="pb-[.4rem] text-sm font-medium text-gray-600 no-underline hover:border-b-2 hover:border-solid hover:border-app-secondary hover:text-gray-700" href="#">Contact</a>
+          </li>
+        </ul>
+        <div class="flex items-center justify-center mr-4 space-x-6">
+          <search class="w-6 h-6" />
+          <cart class="w-10 h-10" />
+          <img
+            src="./../assets/profile.jpg"
+            class="object-cover w-12 h-12 rounded-full"
+            alt="profile image"
+          />
+        </div>
       </div>
     </header>
-    <main class="flex items-center py-4">
+    <main class="flex items-center">
       <div class="w-1/2">
         <div>
           <div
@@ -83,7 +85,7 @@
           </div>
         </div>
       </div>
-      <div class="relative z-10 w-1/2 -mt-28">
+      <div class="relative z-10 w-1/2 -mt-36">
         <img class="object-cover" src="./../assets/main2.png" alt="" />
       </div>
     </main>

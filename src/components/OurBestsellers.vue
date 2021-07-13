@@ -1,5 +1,6 @@
 <template>
   <div class="mb-40 text-center">
+    <flower-corner-inverted class="absolute w-32 -mt-40 h-80" />
     <p class="text-sm font-light">Popular Product</p>
     <h2 class="inline-flex items-center text-4xl">
       <flower-inverted class="w-8 h-8 mr-2" />
@@ -62,6 +63,7 @@
 <script setup>
 import flower from './../assets/icons/flower.svg'
 import flowerInverted from './../assets/icons/flower-inverted.svg'
+import FlowerCornerInverted from './../assets/icons/flower-corner-inverted.svg'
 import elipse from './../assets/icons/elipse.svg'
 import AppButton from './AppButton.vue'
 </script>
