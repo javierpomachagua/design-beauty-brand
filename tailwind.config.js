@@ -1,4 +1,5 @@
 module.exports = {
+  mode: 'jit',
   purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   darkMode: false, // or 'media' or 'class'
   theme: {
@@ -10,6 +11,7 @@ module.exports = {
       colors: {
         app: {
           primary: '#001F40',
+          secondary: '#FB8D9E',
           contrastPink: '#FEE8EC'
         }
       }
