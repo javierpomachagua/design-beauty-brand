@@ -1,14 +1,14 @@
 <template>
-  <div>
+  <div class="mb-72">
     <div class="flex">
       <div class="relative w-1/2">
         <background-arrival class="absolute top-0 z-10 h-[32rem]" />
         <img src="./../assets/arrival.png" class="relative z-20 h-[32rem] ml-36" alt="arrival image">
       </div>
       <div class="relative w-1/2 py-20">
-        <h1 class="inline-flex items-center mb-4 text-4xl">New Arrival
+        <h2 class="inline-flex items-center mb-4 text-4xl">New Arrival
           <flower class="w-8 h-8 ml-2" />
-        </h1>
+        </h2>
         <p class="relative z-20 mb-8 text-sm font-light">
           Lorem ipsum is placeholder text commonly used in the graphic, print, and
           publishing industries for previewing layouts and visual mockups.

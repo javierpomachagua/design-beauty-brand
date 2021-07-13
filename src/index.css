@@ -10,4 +10,7 @@
   h2 {
     @apply font-playfair;
   }
+  p {
+    @apply text-sm leading-6
+  }
 }

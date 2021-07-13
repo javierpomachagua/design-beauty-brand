@@ -27,7 +27,7 @@
       <div class="w-1/2">
         <div>
           <div
-            class="inline-flex items-center justify-center px-4 py-1 mb-6 space-x-2  bg-app-contrastPink rounded-xl"
+            class="inline-flex items-center justify-center px-4 py-1 mb-6 space-x-2 bg-app-contrastPink rounded-xl"
           >
             <natural-product class="w-4 h-4" />
             <small class="text-xs font-light">Natural Products</small>
@@ -46,14 +46,14 @@
             <!-- <start-unrated class="w-6 h-6" /> -->
             <small class="text-xs text-gray-700">29 reviews</small>
           </div>
-          <p class="w-3/5 mb-10 text-sm font-light leading-6 tracking-normal">
+          <p class="w-3/5 mb-10 font-light tracking-normal">
             Most dermatologists agree it is important to cleanse the face twice
             daily to get bacteria, dirt and pollutants off your skin
           </p>
           <div class="inline-flex items-center mb-16 space-x-10">
             <p class="text-2xl font-bold">$29.99</p>
             <div
-              class="inline-flex items-center px-8 py-1 space-x-2 border border-gray-700 border-solid  rounded-3xl"
+              class="inline-flex items-center px-8 py-1 space-x-2 border border-gray-700 border-solid rounded-3xl"
             >
               <span class="text-2xl text-gray-600">-</span>
               <span class="font-semibold">1</span>
